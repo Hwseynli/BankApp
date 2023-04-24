@@ -1,0 +1,15 @@
+/Users/zeyneb/Projects/BankApp/BankApp/bin/Debug/net7.0/BankApp
+/Users/zeyneb/Projects/BankApp/BankApp/bin/Debug/net7.0/BankApp.deps.json
+/Users/zeyneb/Projects/BankApp/BankApp/bin/Debug/net7.0/BankApp.runtimeconfig.json
+/Users/zeyneb/Projects/BankApp/BankApp/bin/Debug/net7.0/BankApp.dll
+/Users/zeyneb/Projects/BankApp/BankApp/bin/Debug/net7.0/BankApp.pdb
+/Users/zeyneb/Projects/BankApp/BankApp/obj/Debug/net7.0/BankApp.csproj.AssemblyReference.cache
+/Users/zeyneb/Projects/BankApp/BankApp/obj/Debug/net7.0/BankApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zeyneb/Projects/BankApp/BankApp/obj/Debug/net7.0/BankApp.AssemblyInfoInputs.cache
+/Users/zeyneb/Projects/BankApp/BankApp/obj/Debug/net7.0/BankApp.AssemblyInfo.cs
+/Users/zeyneb/Projects/BankApp/BankApp/obj/Debug/net7.0/BankApp.csproj.CoreCompileInputs.cache
+/Users/zeyneb/Projects/BankApp/BankApp/obj/Debug/net7.0/BankApp.dll
+/Users/zeyneb/Projects/BankApp/BankApp/obj/Debug/net7.0/refint/BankApp.dll
+/Users/zeyneb/Projects/BankApp/BankApp/obj/Debug/net7.0/BankApp.pdb
+/Users/zeyneb/Projects/BankApp/BankApp/obj/Debug/net7.0/BankApp.genruntimeconfig.cache
+/Users/zeyneb/Projects/BankApp/BankApp/obj/Debug/net7.0/ref/BankApp.dll
